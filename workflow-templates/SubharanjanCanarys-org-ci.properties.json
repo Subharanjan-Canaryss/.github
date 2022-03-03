@@ -1,6 +1,6 @@
 {
     "name": "Playground Template",
-    "description": "SubharanjanCanarys CI workflow template.",
+    "description": "Subharanjan CI workflow template.",
     "iconName": "example-icon",
     "categories": [
         "Go"
