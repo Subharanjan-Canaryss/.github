@@ -1,4 +1,4 @@
-name: SubharanjanCanarys Org CI
+name: Subharanjan Org CI
 
 on:
   push:
